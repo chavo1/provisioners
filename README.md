@@ -6,7 +6,7 @@ Please note that this example will deploy real resources into your AWS account. 
 
 
 
-This will deploy two EC2 instance in AWS. One will be with public accessible web page on port 80 as follow:
+This will deploy two EC2 instance in AWS. One will be with public accessible web page on port 80 as following content as an exmple:
 
 "Welcome to i-008d4c4afaf2718db"
 
